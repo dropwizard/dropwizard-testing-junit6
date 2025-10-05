@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>dropwizard-testing-junit6</artifactId>
-    <version>5.0.0</version>
+    <version>5.0.1-SNAPSHOT</version>
     <name>Dropwizard Test Helpers for JUnit 6</name>
 
     <properties>
@@ -295,8 +295,4 @@
             </plugin>
         </plugins>
     </build>
-
-  <scm>
-    <tag>dropwizard-testing-junit6-5.0.0</tag>
-  </scm>
 </project>
